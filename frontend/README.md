@@ -2,7 +2,7 @@
 
 This project tries to clone UBER using React+Vite and Maps api for Geocoding
 
-to run the project simply go the the directory and for both frontend and backend
+to run the project simply go the the directory for both frontend and backend
 ```
 npm i
 ```
